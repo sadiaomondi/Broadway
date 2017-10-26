@@ -1,0 +1,64 @@
+main {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.image, .main-banner {
+  background-image:
+  url("/Users/omondisadia/Documents/Code/Broadway/Resources/images/the-flatiron-building.broadway.png"
+  );
+  background-position: center;
+}
+
+.main-list li {
+  font-size: 18px;
+  color: white;
+  }
+
+  a {
+    color: white;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  h2 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .content p {
+    font-size: 14px;
+  }
+
+  .image2, main-banner {
+    background-image:
+    url("/Users/omondisadia/Documents/Code/Broadway/Resources/images/the-flatiron-building.broadway.png"
+    );
+    background-position: center;
+  }
+
+  h2.image2 {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+  }
+
+  footer {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+  }
